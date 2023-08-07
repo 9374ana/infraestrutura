@@ -1,0 +1,3 @@
+Localhost: 7 redes ( Desktop, Notebook, Smartphone)
+LAN: 1 Rede de Área local 
+WAN:1  Rede de Área ampla
